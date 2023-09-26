@@ -8,7 +8,8 @@ El resultado fue una pagina que muestra un listado de 20 productos, para lo cual
 Vista previa del proyecto:
 
 
-https://github.com/PauRodriguezz/Tp-TypeScript/assets/139194450/8e506c85-9c54-4d0f-8e43-23fbb4c6455f
+https://github.com/PauRodriguezz/Tp-TypeScript/assets/139194450/24fd3636-9ca3-44aa-b78d-48e21fe1ee79
+
 
 ![image](https://github.com/PauRodriguezz/Tp-TypeScript/assets/139194450/e61b320a-915f-459a-8c7e-14a4ad9eaa5f)
 
